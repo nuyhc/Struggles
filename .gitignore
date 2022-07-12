@@ -11,6 +11,8 @@
 *.xls
 *.xlsx
 
+*.h5
+
 # Img
 *.png
 *.jpg
