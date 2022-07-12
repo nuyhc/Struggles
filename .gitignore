@@ -1,3 +1,13 @@
-*.csv
+# Doc
 *.rtf
-*.zip
+*.txt
+
+# Data
+*.csv
+*.arff
+*.xls
+*.xlsx
+
+# Img
+.png
+.jpg
