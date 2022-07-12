@@ -3,11 +3,14 @@
 *.txt
 
 # Data
+*.zip
+*.tar
+
 *.csv
 *.arff
 *.xls
 *.xlsx
 
 # Img
-.png
-.jpg
+*.png
+*.jpg
