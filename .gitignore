@@ -5,6 +5,7 @@
 # Data
 *.zip
 *.tar
+*.DS_Store
 
 *.csv
 *.arff
