@@ -1,6 +1,7 @@
 # Doc
 *.rtf
 *.txt
+*.log
 
 # Data
 *.zip
@@ -22,3 +23,4 @@
 *.heic
 
 *.wav
+
